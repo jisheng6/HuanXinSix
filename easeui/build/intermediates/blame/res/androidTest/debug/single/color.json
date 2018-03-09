@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\ceda004ba4403cd18840d599ace689bf\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\a336cd46ceb03530d596dfe3ae77ae8a\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\ceda004ba4403cd18840d599ace689bf\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\a336cd46ceb03530d596dfe3ae77ae8a\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\ceda004ba4403cd18840d599ace689bf\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0f515692668f710afa0ec0cdc596adae\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\三星\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\a336cd46ceb03530d596dfe3ae77ae8a\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\studio\\HuanXinSix\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\焦胜\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\d72fbdc31a3815a0485fefd2637e1bf5\\res\\color\\switch_thumb_material_light.xml"
+    }
+]

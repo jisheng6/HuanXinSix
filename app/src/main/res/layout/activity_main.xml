@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="bwei.com.huanxinsix.MainActivity">
+    <FrameLayout
+        android:layout_above="@+id/linear"
+        android:id="@+id/frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+         <TextView
+             android:padding="10dp"
+
+             android:gravity="center"
+
+             android:textSize="20sp"
+             android:id="@+id/chat_lists"
+             android:layout_weight="1"
+             android:layout_width="0dp"
+             android:layout_height="wrap_content"
+             android:text="聊天室"
+             />
+        <TextView
+            android:textSize="20sp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:id="@+id/contact_list"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="通讯录"
+            />
+    <TextView
+        android:textSize="20sp"
+        android:gravity="center"
+
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="个人中心"
+        android:id="@+id/person_center"
+        />
+    </LinearLayout>
+
+</RelativeLayout>
